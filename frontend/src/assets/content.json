@@ -1,0 +1,18 @@
+{
+    "section1": {
+      "title": "Getting Started with GemAnalyzer",
+      "description": "As a new user, you can easily upload images of gems to GemAnalyzer for accurate analysis. Once you've uploaded an image, our advanced image recognition technology will identify the gem type and shape, providing you with detailed information.",
+      "buttonText": "Learn More"
+    },
+    "section2": {
+      "title": "GemAnalyzer and Image",
+      "description": "GemAnalyzer utilizes cutting-edge image recognition technology to accurately identify gem types and shapes. Our system is built on a decentralized, open-source platform that ensures reliability and accessibility for all users.",
+      "buttonText": "Get Started"
+    },
+    "section3": {
+      "title": "Explore the Power of GemAnalyzer",
+      "description": "GemAnalyzer Revolutionizes Gem Analysis",
+      "buttonText": "Learn More"
+    }
+  }
+  
